@@ -1,6 +1,12 @@
 body {
     background-color: rgb(189, 147, 228);
-    font-family:'Gayathri';
+    font-family:'Gayathri', sans-serif;
+}
+
+.digit {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
 }
 
 #main {
@@ -21,4 +27,24 @@ main {
 .myImg {
     height: 30%;
     width: 30%;
+}
+
+.sharp {
+    color:purple;
+}
+
+.js {
+    color:orange;
+}
+
+.ht {
+    color: red;
+}
+
+.css {
+    color: blue;
+}
+
+.sql {
+    color:white;
 }
