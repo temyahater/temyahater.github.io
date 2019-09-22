@@ -1,6 +1,8 @@
 body {
     background-color: rgb(189, 147, 228);
     font-family:'Gayathri', sans-serif;
+    width: 1024px;
+    margin: 0 auto;
 }
 
 .digit {
